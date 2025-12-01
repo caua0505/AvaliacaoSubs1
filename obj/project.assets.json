@@ -2936,26 +2936,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cauat\\.nuget\\packages\\": {}
+    "C:\\Users\\caua.proenca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cauat\\Documents\\API\\ApiProjeto\\ApiProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\caua.proenca\\Documents\\Avaliacao\\ApiProjeto.csproj",
       "projectName": "ApiProjeto",
-      "projectPath": "C:\\Users\\cauat\\Documents\\API\\ApiProjeto\\ApiProjeto.csproj",
-      "packagesPath": "C:\\Users\\cauat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cauat\\Documents\\API\\ApiProjeto\\obj\\",
+      "projectPath": "C:\\Users\\caua.proenca\\Documents\\Avaliacao\\ApiProjeto.csproj",
+      "packagesPath": "C:\\Users\\caua.proenca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caua.proenca\\Documents\\Avaliacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cauat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\caua.proenca\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.nuget.org/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
